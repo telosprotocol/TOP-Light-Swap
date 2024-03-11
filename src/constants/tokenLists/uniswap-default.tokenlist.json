@@ -1,0 +1,62 @@
+{
+  "name": "Uniswap Default List",
+  "timestamp": "2021-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": ["uniswap", "default"],
+  "tokens": [
+    {
+      "name": "TokenA",
+      "address": "0xe47056d8fCa1925484C966a86bD22eB7D43C0658",
+      "symbol": "TokenA",
+      "decimals": 18,
+      "chainId": 1023,
+      "logoURI": "https://www.example.org/static/images/top.png"
+    },
+    {
+      "name": "TokenB",
+      "address": "0xAAeBa6D3475C1bBDEe1c75BbB9fe8deD0A5f0FCA",
+      "symbol": "TokenB",
+      "decimals": 18,
+      "chainId": 1023,
+      "logoURI": "https://www.example.org/static/images/top.png"
+    },
+    {
+      "name": "TokenC",
+      "address": "0x144f4879cd8cF85E9FAF5ebFFb43cB493BBc8c28",
+      "symbol": "TokenC",
+      "decimals": 18,
+      "chainId": 1023,
+      "logoURI": "https://www.example.org/static/images/top.png"
+    },
+    {
+      "name": "TopErc20",
+      "address": "0xEC1d17ae4bd5BEF3c4ee26AacE1BfA19b96c56C6",
+      "symbol": "TopErc20",
+      "decimals": 6,
+      "chainId": 1023,
+      "logoURI": "https://www.example.org/static/images/top.png"
+    },
+    {
+      "name": "UsdcErc20",
+      "address": "0x191F4801b04a0163F1035DC40880d14490C5df52",
+      "symbol": "UsdcErc20",
+      "decimals": 18,
+      "chainId": 1023,
+      "logoURI": "https://www.example.org/static/images/top.png"
+    },
+    {
+      "name": "UsdtErc20",
+      "address": "0x798Ce81487b30A154319Bcf594A7616B4dC5B9D8",
+      "symbol": "UsdtErc20",
+      "decimals": 18,
+      "chainId": 1023,
+      "logoURI": "https://www.example.org/static/images/top.png"
+    }
+  ]
+}
